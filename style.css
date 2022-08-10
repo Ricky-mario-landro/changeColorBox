@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    padding: 100px 100px;
+    margin-right: 30px;
+    margin-top: 30px;
+    background-color: green;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
